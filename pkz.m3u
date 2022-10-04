@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:0,DIGI SPORT 1
+http://dgf.icx.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 2
+http://dgf.icx.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 3
+http://dgf.icx.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI SPORT 4
+http://dgf.icx.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,EUROSPORT
+http://dgf.icx.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,EUROSPORT 2
+http://dgf.icx.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TVR 2
+http://dgf.icx.ro/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TV 1000
+http://dgf.icx.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI LIFE
+http://dgf.icx.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI WORLD
+http://dgf.icx.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DIGI ANIMAL WORLD
+http://dgf.icx.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,NAT GEO WILD
+http://dgf.icx.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://dgf.icx.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,HISTORY CHANNEL
+http://dgf.icx.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,VIASAT HISTORY
+http://dgf.icx.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,VIASAT NATURE
+http://dgf.icx.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,VIASAT EXPLORE
+http://dgf.icx.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TRAVEL CHANNEL
+http://dgf.icx.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TV PAPRIKA
+http://dgf.icx.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,HIT MUSIC CHANNELhttp://dgf.icx.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,MUSIC CHANNEL
+http://dgf.icx.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,KISS TV
+http://dgf.icx.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,MINIMAX
+http://dgf.icx.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,MEGAMAX
+http://dgf.icx.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,NICKELODEON
+http://dgf.icx.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DISNEY JUNIOR
+http://dgf.icx.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DISNEY CHANNEL
+http://dgf.icx.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,B1 TV
+http://dgf.icx.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,REALITATEA TV
+http://dgf.icx.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-
+online.ro&t=00000000000000000000000000000000
+#EXTINF:0,ROMANIA TV
+http://dgf.icx.ro/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-
+online.ro&t=00000000000000000000000000000000
